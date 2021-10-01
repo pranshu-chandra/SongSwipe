@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "825839785702",
+    "project_id": "songswipe-8d30a",
+    "storage_bucket": "songswipe-8d30a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825839785702:android:75ab66ee0ef00c9baecd27",
+        "android_client_info": {
+          "package_name": "com.example.songswipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825839785702-lufq7f97o7vbqcvr3fu872ph5ru06du6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.songswipe",
+            "certificate_hash": "6bb3b3004427f95e360eae923ba7187bf8c1fb46"
+          }
+        },
+        {
+          "client_id": "825839785702-4rd86rmcegjt7t6uj3870dvlb6j02ar9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjzGaNMzCF8Ezv_01-aL1eFngD3bGjoJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825839785702-4rd86rmcegjt7t6uj3870dvlb6j02ar9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
